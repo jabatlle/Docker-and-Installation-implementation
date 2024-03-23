@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>URL</key>
-	<string>file:///Applications/Docker.app/Contents/MacOS/Docker%20Desktop.app/Contents/Resources/app.asar/web/index.html?bugsnagUserId=232018FE-20D0-40D3-8E76-29D5FF2261E9&amp;opts=%7B%22_%22%3A%5B%22%2FApplications%2FDocker.app%2FContents%2FMacOS%2FDocker+Desktop.app%2FContents%2FMacOS%2FDocker+Desktop%22%5D%2C%22name%22%3A%22dashboard%22%7D&amp;e2eTests=false&amp;shouldUseDarkColors=true&amp;isArm64=true#</string>
-</dict>
-</plist>
