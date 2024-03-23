@@ -13,25 +13,25 @@ pip install -r requirements.txt
 
 #### Run Scripts
 
-python3 MatrixMult.py
+python3 mymatrixmult.py
 
 #### Docker
 
 ##### Build Image
 
-docker build -t MatrixMult .
+docker build -t mymatrixmult .
 
 ##### Run Container
 
-docker run MatrixMult
+docker run mymatrixmult
 
 
 ##### Export Image
 
-docker save -o MatrixMult.tar MatrixMult
+docker save -o mymatrixmult.tar mymatrixmult
 
 ##### Import Image 
 
-docker load -i MatrixMult.tar
+docker load -i mymatrixmult.tar
 
 
