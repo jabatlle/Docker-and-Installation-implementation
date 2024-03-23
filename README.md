@@ -34,4 +34,5 @@ docker save -o mymatrixmult.tar mymatrixmult
 
 docker load -i mymatrixmult.tar
 
+<img width="1264" alt="Screenshot 2024-03-23 at 7 27 19 PM" src="https://github.com/jabatlle/Docker-and-Installation-implementation/assets/114434629/33822829-fcd9-484a-8693-e0902f800407">
 
