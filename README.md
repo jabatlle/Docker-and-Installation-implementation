@@ -1,5 +1,5 @@
 # Docker-and-Installation-implementation
-In this project I created a function that its input are two matrices and its output is the multiplication of this two matrices. After creating this function using numpy, I made some test examples and tested it with pytest. I tested correct outputs, wrong imputs, error conditions, among other things. I also used linting, flake8 specifically because it offers an easy way to ensure quality by checking syntax issues, stylistic errors, etc. Then I explore github actions.
+This is a simple project I created. It has a function that its input are two matrices and its output is the multiplication of this two matrices. After creating this function using numpy, I made a test example and tested it with pytest. I also used linting, flake8 specifically because it offers an easy way to ensure quality by checking syntax issues, stylistic errors, etc. Then I proceeded to implement Docker and created an image.
 
 To install it:
 #### Clone Repo
