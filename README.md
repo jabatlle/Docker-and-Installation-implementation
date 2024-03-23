@@ -7,30 +7,17 @@ To install it:
 git clone https://github.com/jabatlle/Docker-and-Installation-implementation.git
 cd Docker-and-Installation-implementation
 
-#### Install Requirements
-
 pip install -r requirements.txt
 
-#### Run Scripts
-
-python3 mymatrixmult.py
-
-#### Docker
-
-##### Build Image
+Build Image
 
 docker build -t mymatrixmult .
 
-##### Run Container
+Run Container
 
 docker run mymatrixmult
 
-
-##### Export Image
-
 docker save -o mymatrixmult.tar mymatrixmult
-
-##### Import Image 
 
 docker load -i mymatrixmult.tar
 
